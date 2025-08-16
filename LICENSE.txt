@@ -2,11 +2,9 @@ Copyright (c) 2025 Kernel
 
 All rights reserved.
 
-This source code is proprietary and confidential. 
-Unauthorized copying, modification or  distribution  via any medium, is strictly prohibited 
-without the express written permission of the copyright holder.
+This source code is proprietary and confidential.
 
-You are permitted to view this code for educational and reference purposes only. 
-No rights are granted to  distribute, or create derivative works of this software 
-without explicit permission.
+You are permitted to view this code and use the software as intended (e.g., to play the game).
+However, you may not copy, modify, redistribute, or create derivative works of the source code
+without the express written permission of the copyright holder.
 
