@@ -1,4 +1,4 @@
-## 🎮 Controls
+##  Controls
 - **WASD / Arrow Keys** – Move  
 - **Space** – Dash in movement direction  
 - **P** – Pause / Resume  
