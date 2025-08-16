@@ -11,4 +11,4 @@
 
 ## License
 This project is proprietary.  
-You may view the code, but you may not use, copy, modify, or distribute it without explicit permission.  
+You may view the code, but you may not  copy, modify, or distribute it without explicit permission.  
