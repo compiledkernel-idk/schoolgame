@@ -3,10 +3,10 @@ Copyright (c) 2025 Kernel
 All rights reserved.
 
 This source code is proprietary and confidential. 
-Unauthorized copying, modification, distribution, or use of this code, via any medium, is strictly prohibited 
+Unauthorized copying, modification or  distribution  via any medium, is strictly prohibited 
 without the express written permission of the copyright holder.
 
 You are permitted to view this code for educational and reference purposes only. 
-No rights are granted to use, compile, distribute, or create derivative works of this software 
+No rights are granted to  distribute, or create derivative works of this software 
 without explicit permission.
 
