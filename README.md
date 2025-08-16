@@ -8,3 +8,7 @@
 - **F6 / F7 / F8 / F9** – Change resolutio
 
 - Game was made with  **RUST** using **macroquad**
+
+## License
+This project is proprietary.  
+You may view the code, but you may not use, copy, modify, or distribute it without explicit permission.  
