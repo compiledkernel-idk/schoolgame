@@ -1,3 +1,6 @@
+# NEON RUSH
+## Currency saves when exiting game
+
 
 #### Important Notes
 
