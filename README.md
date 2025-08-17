@@ -10,15 +10,22 @@ If you encounter a warning:
 - On Windows: click "More info" → "Run anyway".  
 - On macOS: right-click the app, choose "Open", then confirm.
 -
--     Controls
-- **WASD / Arrow Keys** – Move  
-- **Space** – Dash in movement direction  
-- **P** – Pause / Resume  
-- **R** – Restart  
-- **Esc** – Quit  
-- **F11** – Toggle fullscreen  
-- **F6 / F7 / F8 / F9** – Change resolutio
+## Controls
 
+### Movement & Combat
+- **W / Space** – Jump  
+- **A / D** – Move left and right  
+- **Left Shift** – Dash in the direction you’re moving  
+- **Mouse** – Aim (used for some upgrades)  
+- **Esc** – Pause / Quit to menu  
+
+### Shop & Currency
+- **P** – Open the point store / shop  
+- **Arrow Keys** – Navigate through shop options  
+- **Enter / Return** – Buy selected upgrade (if you have enough points)  
+- **Esc** – Close the shop  
+
+  
 - Game was made with  **RUST** using **macroquad**
 
 ## License
