@@ -24,7 +24,8 @@ If you encounter a warning:
 
 ### Shop & Currency
 - **U** – Open the point store / shop  
-- **1-5** – Navigate through shop options  
+- **DownArrrow-UpArrow** – Navigate through shop options  
+- **Enter** - Buy selected shop option
 - **Esc** – Close the shop  
 
   
