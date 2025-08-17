@@ -18,12 +18,12 @@ If you encounter a warning:
 ### Movement & Combat
 - **W / Space** – Jump  
 - **A / D** – Move left and right  
-- **Left Shift** – Dash in the direction you’re moving  
+- **Space** – Dash in the direction you’re moving  
 - **Mouse** – Aim (used for some upgrades)  
 - **Esc** – Pause / Quit to menu  
 
 ### Shop & Currency
-- **P** – Open the point store / shop  
+- **U** – Open the point store / shop  
 - **Arrow Keys** – Navigate through shop options  
 - **Enter / Return** – Buy selected upgrade (if you have enough points)  
 - **Esc** – Close the shop  
