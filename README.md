@@ -12,7 +12,7 @@ If you encounter a warning:
 
 - On Windows: click "More info" → "Run anyway".  
 - On macOS: right-click the app, choose "Open", then confirm.
--
+
 ## Controls
 
 ### Movement & Combat
