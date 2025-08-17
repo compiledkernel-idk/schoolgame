@@ -24,8 +24,7 @@ If you encounter a warning:
 
 ### Shop & Currency
 - **U** – Open the point store / shop  
-- **Arrow Keys** – Navigate through shop options  
-- **Enter / Return** – Buy selected upgrade (if you have enough points)  
+- **1-5** – Navigate through shop options  
 - **Esc** – Close the shop  
 
   
